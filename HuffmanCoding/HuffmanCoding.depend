@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1684110981 source:c:\github\huffman-coding\huffmancoding\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string>
+	<winbgim.h>
+
